@@ -15,4 +15,5 @@ public:
 
     // aumenta il tipo di danno in attacco in base al potere ricevuto
     void adjurn_atk_damage(int);
-};
+
+}; 

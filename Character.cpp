@@ -27,5 +27,6 @@ void Character::takeDamage(int damage_received)
     {
         this->current_life = 0;
     }
+
 }
 

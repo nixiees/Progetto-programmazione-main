@@ -27,5 +27,6 @@ void Protagonist::increaseLife(int healing)
 void Protagonist::adjurn_atk_damage(int p) // p sta per punti in piu in attacco dati dal potere ricevuto
 {
     this->atk_damage += p;
+
 }
 
